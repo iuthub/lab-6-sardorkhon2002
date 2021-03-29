@@ -22,5 +22,19 @@ h1, h2 {
 
 input[type="submit"] {
     font-size: 2em;
-    width: 100%;
+    width: 50%;
+}
+
+div {
+    text-align: center;
+}
+
+dt {
+    font-size: 20px;
+    padding: 5px;
+}
+
+dd input {
+    width: 50%;
+    padding: 5px;
 }
